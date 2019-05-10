@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Phan Trung Duc
 DucPT
 Superptd
 phanduc.hust@gmail.com
+=======
+Phan Trung Duc
+>>>>>>> parent of 291d3bd... Update Demo.txt
