@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 Phan Trung Duc
 DucPT
+<<<<<<< HEAD
 Superptd
 phanduc.hust@gmail.com
 =======
 Phan Trung Duc
 >>>>>>> parent of 291d3bd... Update Demo.txt
+=======
+>>>>>>> parent of a40ceb6... add gamename

@@ -1,0 +1,115 @@
+
+CNNs:
+https://labs.septeni-technology.jp/technote/ml-18-convolution-neural-network-part-1/
+https://labs.septeni-technology.jp/technote/ml-19-convolution-neural-network-part-2/
+https://labs.septeni-technology.jp/technote/ml-20-convolution-neural-network-part-3/
+
+
+I. Intro
+
+1.Problem with fully-connected Neural Network (ANN):
+
+2.Solution with weight sharing:
+
+3.Introduction of Convolution Neural Network (CNN):
+
+4.What is tensor:
+
+
+II. CNNs
+
+1. Integral (Tích phân):
+
+2. Integral in statistic:
+
+3. What is convolution:
+
+4. Intuition of convolution:
+
+
+1. Convolution Layer:
+
+2. Pooling Layer:
+
+3. Fully-Connected Layer:
+
+4. Variety of CNNs :
+
+
+
+
+
+
+25/04/2019
+
+sua: thay "voi mot tap dl anh ...., em lua chon...." ->
+bo dai tu nhan xung, 
+
+
+endnote: trich dan
+1.
+
+
+phan tich hanh dong, hanh vi, su kien
+- phat hien ng
+- nhan dien tu the, khuon mat
+- 
+
+trich dan: ieee ex, camera an ninh (iva)
+
+Cau truc:
+Chuong 3: trieng khai mo hinh, thuc hien nhiem vu phan loai anh
+
+
+2.
+mang lan truyen ngc
+
+3.2 them 3 hinh (scr shot) 3 tu the
+
+
+
+
+- overfitting: khi model qua quen voi tap train, khi dua mau moi vao se co do chinh xac thap
+ + ve them duong do thi voi tap test
+ + moi epoch save 1 model
+
+
+
+
+	  Dung	  Ngoi	  Nam
+Dung	________|_______|________
+Ngoi	________|_______|________
+Nam		|	|	
+
+
+
+danh gia hieu nang tren tap test
+
+
+
+16/05/2019
+
+- train lenet
+ + acc
+ + fusion matrix
+
+- danh gia model thiet ke
+
+
+bo cuc bao cao:
+- danh gia quyen do an tn
+
+
+
+*slide
+- dat van de: phan tich ky ly do chon CNN
+- CNN
+ + ctruc
+ + hluyen
+- ung dung CNN cho img cla
+- thuc hien
+ + cac buoc
+ + dataset
+ + thuat toan
+ + model
+ + bang tong hop cac mo hinh
